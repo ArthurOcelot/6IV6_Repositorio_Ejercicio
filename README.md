@@ -2,5 +2,6 @@
 
 Este va a ser el repositorio
 para la materia de Soporte de 
-Software Gutiérrez Sánchez
+Software GutiÃ©rrez SÃ¡nchez
 Luis Arturo 6IV6
+Cambio
